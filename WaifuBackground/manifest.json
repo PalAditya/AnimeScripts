@@ -6,7 +6,6 @@
   "description": "Just get a random waifu to grace your google homepage, or save her permanently",
   "content_scripts": [{
     "js": ["content.js"],
-	"css": ["content.css"],
     "matches": ["<all_urls>"]
   }]
  

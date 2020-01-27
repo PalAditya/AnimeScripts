@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Waifu Wallpaper",
+  "version": "0.1.0",
+  "description": "Just get a random waifu to grace your google homepage, or save her permanently",
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["<all_urls>"]
+  }]
+ 
+}

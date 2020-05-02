@@ -3,6 +3,26 @@ var arr = {
 			"name": "Asuna_Yuuki.png",
 			"img": "https://user-images.githubusercontent.com/25523604/73164675-62278880-4118-11ea-9954-8d3288b9c6ec.png",
 			"url": "https://myanimelist.net/anime/11757/Sword_Art_Online"
+		},
+		{
+			"name": "Alice_Zuberg.jpg",
+			"img": "https://user-images.githubusercontent.com/25523604/73235418-6e612380-41b4-11ea-82dd-c254c1a4e11b.jpg",
+			"url": "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization"
+		},
+		{
+			"name": "Darkness.png",
+			"img": "https://user-images.githubusercontent.com/25523604/73235660-59d15b00-41b5-11ea-9268-f6f526ff46c0.png",
+			"url": "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo"
+		},
+		{
+			"name": "Momo_Yaoyorozu.jpg",
+			"img": "https://user-images.githubusercontent.com/25523604/73236274-ba619780-41b7-11ea-9f9d-b0db19643248.jpg",
+			"url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
+		},
+		{
+			"name": "Mafuyu_Kirisu.jpg",
+			"img": "https://user-images.githubusercontent.com/25523604/73237311-2396da00-41bb-11ea-9a0e-2f274e61366c.jpg",
+			"url": "https://myanimelist.net/anime/38186/Bokutachi_wa_Benkyou_ga_Dekinai"
 		}
 	]
 };

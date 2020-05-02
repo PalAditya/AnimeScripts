@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Block",
+  "version": "0.1.0",
+  "description": "Not exactly for an Otaku - but nice if you want to block your otaku children or control yourself!",
+ 
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["http://nvidia-research-mingyuliu.com/*"]
+  }]
+ 
+}
